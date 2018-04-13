@@ -1,0 +1,2 @@
+*SnakeConsoleApp*
+Project was developed on Visual Studio 2015
